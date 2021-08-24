@@ -38,6 +38,6 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 <a href="https://twitter.com/AndrsSantamar10">
   <img align="left" alt="ANDROID | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/andr%C3%A9s-santamar%C3%ADa-moreno-a03ab0212">
+<a href="https://www.linkedin.com/in/andres-santamaria-moreno-a03ab0212">
   <img align="left" alt="ANDROID's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
