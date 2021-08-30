@@ -41,6 +41,8 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 <a href="https://www.linkedin.com/in/andres-santamaria-moreno-a03ab0212">
   <img align="left" alt="ANDROID's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<br/>
+<br/>
 <div align="left">
   <a href="https://discord.com/users/403920361969811456">
     <img src="https://lanyard-profile-readme.vercel.app/api/403920361969811456?animated=true" align="left" height="205">
