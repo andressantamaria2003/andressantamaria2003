@@ -43,8 +43,3 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 </a>
 <br/>
 <br/>
-<div align="left">
-  <a href="https://discord.com/users/403920361969811456">
-    <img src="https://lanyard-profile-readme.vercel.app/api/403920361969811456?animated=true" align="left" height="205">
-  </a>
-</div>
