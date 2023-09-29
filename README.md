@@ -36,10 +36,10 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 <br/>
 <br/>
 <a href="https://twitter.com/AndrsSantamar10">
-  <img align="left" alt="ANDROID | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="ANDROID | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/2491px-Logo_of_Twitter.svg.png" />
 </a>
 <a href="https://www.linkedin.com/in/andres-santamaria-moreno-a03ab0212">
-  <img align="left" alt="ANDROID's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="ANDROID's LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
 </a>
 <br/>
 <br/>
